@@ -40,6 +40,27 @@ This repository may grow to include:
 - Structured logging/test runners
 - Prompt chain templates for QA teams
 
+
+## 🌍 Vision & Alignment
+
+This whitepaper and repository are part of a broader effort to reimagine quality assurance in the age of AI, with a focus on safe and efficient HealthTech systems.
+
+The ideas documented here — such as prompt chaining, AI test automation, semantic logging, and ethical QA simulation — support emerging national goals in digital health, AI governance, and technology innovation.
+
+This work is aligned with international innovation initiatives in:
+- ✅ HealthTech safety and compliance
+- ✅ AI safety, explainability, and reproducibility
+- ✅ Next-generation tools for quality engineering in large language models (LLMs)
+
+I aim to expand this repository with:
+- Modular tools like `AgentTest` (prototype-in-progress)
+- Public prompt libraries for QA use cases
+- Visualizations of semantic QA workflows
+- Test conversion helpers (manual → Python)
+
+If you’re building in these areas or would like to collaborate, feel free to connect on [LinkedIn](https://www.linkedin.com/in/pavankumarinfo/)
+
+
 ## 📜 License
 
 MIT License or Creative Commons BY-SA 4.0 (depending on your preference)
@@ -47,4 +68,4 @@ MIT License or Creative Commons BY-SA 4.0 (depending on your preference)
 ---
 
 For feedback or collaboration:  
-📬 Reach out via [LinkedIn](https://www.linkedin.com/in/pavankumarinfo/)
+📬 Reach out via [LinkedIn](www.linkedin.com/in/pavanaitestops)
