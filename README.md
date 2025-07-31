@@ -68,4 +68,5 @@ MIT License or Creative Commons BY-SA 4.0 (depending on your preference)
 ---
 
 For feedback or collaboration:  
-📬 Reach out via [LinkedIn](www.linkedin.com/in/pavanaitestops)
+📬 Reach out via [LinkedIn → https://(www.linkedin.com/in/pavanaitestops/](https://www.linkedin.com/in/pavanaitestops/)
+
