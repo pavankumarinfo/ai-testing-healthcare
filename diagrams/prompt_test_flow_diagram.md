@@ -14,4 +14,6 @@ These diagrams will be published in `.svg` or `.png` format once drafted.
 
 For now, this folder is included to mark future visual content to support the ideas in the whitepaper.
 
-![Uploading Prompt_Testing_Workflow_Diagram.png…]()
+
+<img width="848" height="1205" alt="image" src="https://github.com/user-attachments/assets/dbb1e820-4d28-4cb8-aada-85f3eb001957" />
+
